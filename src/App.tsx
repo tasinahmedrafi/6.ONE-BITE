@@ -90,7 +90,7 @@ function App() {
           <div className="flex justify-between items-center h-20">
             <div className="flex items-center">
               <UtensilsCrossed className="h-8 w-8 text-amber-600" />
-              <span className="ml-2 text-2xl font-bold text-gray-900">AQUAPURE</span>
+              <span className="ml-2 text-2xl font-bold text-gray-900">ONE BITE</span>
             </div>
             
             {/* Desktop Navigation */}
@@ -277,7 +277,7 @@ function App() {
             <div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">Our Story</h2>
               <p className="text-gray-600 mb-6">
-                AQUAPURE represents the pinnacle of fine dining, where culinary artistry
+                ONE-BITE represents the pinnacle of fine dining, where culinary artistry
                 meets exceptional service. Our commitment to excellence has made us a
                 destination for those seeking extraordinary dining experiences.
               </p>
@@ -307,17 +307,17 @@ function App() {
             <div className="text-center">
               <MapPin className="w-8 h-8 text-amber-600 mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-2">Location</h3>
-              <p className="text-gray-600">123 Luxury Avenue<br />New York, NY 10001</p>
+              <p className="text-gray-600">123 Luxury Avenue<br />DHAKA, NY 10001</p>
             </div>
             <div className="text-center">
               <Phone className="w-8 h-8 text-amber-600 mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-2">Reservations</h3>
-              <p className="text-gray-600">+1 (212) 555-0123</p>
+              <p className="text-gray-600">+(880) 123-45678</p>
             </div>
             <div className="text-center">
               <Mail className="w-8 h-8 text-amber-600 mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-2">Email</h3>
-              <p className="text-gray-600">reservations@aquapure.com</p>
+              <p className="text-gray-600">reservations@onebite.com</p>
             </div>
           </div>
         </div>
@@ -330,7 +330,7 @@ function App() {
             <div>
               <div className="flex items-center mb-4">
                 <UtensilsCrossed className="h-8 w-8 text-amber-600" />
-                <span className="ml-2 text-2xl font-bold">AQUAPURE</span>
+                <span className="ml-2 text-2xl font-bold">ONE BITE</span>
               </div>
               <p className="text-gray-400">
                 Experience the art of fine dining in an elegant atmosphere.
